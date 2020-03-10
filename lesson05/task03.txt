@@ -1,0 +1,11 @@
+Alice 23543.12
+Bob 13749.32
+John 24500.29
+Katty 9320.05
+Brad 18234.99
+Tom 22669.34
+Ford 34350.20
+Hank 11200.00
+Michael 14567.89
+George 9942.04
+Angel 10341.83
