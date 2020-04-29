@@ -1,0 +1,22 @@
+  117  sudo find / -name *my.cnf
+  118  cd
+  119  touch .my.cnf
+  120  ls
+  121  ls -a
+  122  nano ./.my.cnf
+  123  cat .my.cmf
+  125  mysql
+  126  ls
+  127  cd geek.mysql/
+  128  mysql
+  129  ls
+  130  cd lesson02/
+  131  ls
+  132  mysql
+  133  mysqldump
+  134  mysqldump example > example.sql
+  135  ls
+  136  cat example.sql 
+  137  mysql
+  138  history
+  139  history >> lesson02.history
